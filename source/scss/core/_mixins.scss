@@ -1,0 +1,122 @@
+@mixin question-heading {
+    font-family: $font-din;
+    font-size: 48px;
+    font-weight: 500;
+    font-style: normal;
+    line-height: 54px;
+}
+
+@mixin question-desc {
+    font-family: $font-default;
+    font-size: 16px;
+    font-weight: 500;
+    font-style: normal;
+    line-height: 26px;
+}
+
+@mixin question-button {
+    font-family: $font-gilroy;
+    font-size: 16px;
+    font-weight: 900;
+    font-style: normal;
+    line-height: 20px;
+}
+
+@mixin card-news__category {
+    font-family: $font-din;
+    font-size: 12px;
+    font-weight: 500;
+    font-style: normal;
+    line-height: 19px;
+}
+
+@mixin card-news__text {
+    font-family: $font-din;
+    font-size: 24px;
+    font-weight: 500;
+    font-style: normal;
+    line-height: 30px;
+}
+
+@mixin longread__heading {
+    font-family: $font-din;
+    font-size: 48px;
+    font-weight: 500px;
+    font-style: normal;
+    line-height: 60px;
+}
+
+@mixin longread__text {
+    font-family: $font-default;
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 26px;
+}
+
+@mixin advantages__heading {
+    font-family: $font-din;
+    font-size: 40px;
+    font-weight: 500;
+    font-style: normal;
+    line-height: 50px;
+}
+
+@mixin card-advantages__heading {
+    font-family: $font-din;
+    font-size: 20px;
+    font-weight: 500;
+    font-style: normal;
+    line-height: 25px;
+}
+
+@mixin card-advantages__text {
+    font-family: $font-default;
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 26px;
+}
+
+@mixin feedback-form__title {
+    font-family: $font-din;
+    font-size: 40px;
+    font-weight: 500;
+    font-style: normal;
+    line-height: 52px;
+}
+
+@mixin feedback-form__label {
+    font-family: $font-din;
+    font-size: 16px;
+    font-weight: 500;
+    font-style: normal;
+    line-height: 25px;
+}
+
+@mixin placeholder {
+    font-family: $font-default;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 35px;
+}
+
+@mixin feedback-form__btn {
+    font-family: $font-gilroy;
+    font-size: 14px;
+    font-weight: 500;
+    font-style: normal;
+    line-height: 17px;
+}
+
+
+
+
+
+
+
+
+
+
+

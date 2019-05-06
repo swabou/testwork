@@ -1,0 +1,14 @@
+.advantages {
+	background-color: $advantages;
+
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+
+	padding-top: 120px;
+	padding-bottom: 160px;
+}
+
+.advantages__heading {
+	@include advantages__heading;
+}

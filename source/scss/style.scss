@@ -1,0 +1,24 @@
+// Normalize
+@import "libs/normalize/_normalize.scss";
+
+
+
+// Core
+@import "core/_fonts.scss";
+@import "core/_variables.scss";
+@import "core/_mixins.scss";
+@import "core/_global.scss";
+
+// Index
+@import "blocks/index/main-header.scss";
+@import "blocks/index/question.scss";
+@import "blocks/index/color-text.scss";
+@import "blocks/index/present-picture.scss";
+@import "blocks/index/news-box.scss";
+@import "blocks/index/news-list.scss";
+@import "blocks/index/card-news.scss";
+@import "blocks/index/longread.scss";
+@import "blocks/index/advantages.scss";
+@import "blocks/index/advantages-list.scss";
+@import "blocks/index/card-advantages.scss";
+@import "blocks/index/feedback-form.scss";

@@ -1,0 +1,13 @@
+.card-news__category {
+	@include card-news__category;
+
+	text-transform: uppercase;
+
+	color: $card-news__category;
+}
+
+.card-news__text {
+	@include card-news__text;
+
+	color: $card-news__text;
+}

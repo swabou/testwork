@@ -1,0 +1,35 @@
+// DIN PRO MEDIUM - font-weight: 500;
+@font-face {
+	font-family: 'DIN Pro';
+	src: url('../fonts/DINPro-Medium.woff'),
+	url('../fonts/DINPro-Medium.ttf'),
+	url('../fonts/DINPro-Medium.eot');
+	font-weight: 500;
+	font-style: normal
+}
+
+// DIN PRO BOLD - font-weight: 800;
+@font-face {
+	font-family: 'DIN Pro';
+	src: url('../fonts/DINPro-Bold.woff'),
+	url('../fonts/DINPro-Bold.ttf'),
+	url('../fonts/DINPro-Bold.eot');
+	font-weight: 800;
+	font-style: normal
+}
+
+// GRILROY EXTRABOLD - font-weight: 900;
+@font-face {
+	font-family: 'Gilroy';
+	src: url('../fonts/Gilroy-ExtraBold.otf');
+	font-weight: 900;
+	font-style: normal;
+}
+
+// ROBOTO REGULAR - font-weigt: 400;
+@font-face {
+	font-family: 'Roboto';
+	src: url('../fonts/Roboto-Regular.woff');
+	font-weight: 400;
+	font-style: normal;
+}
